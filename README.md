@@ -39,7 +39,10 @@ A public project dedicated to running local AI models on a 2017 Dell Precision 7
 My newer local AI machine is a 2024 Alienware m16 R2. The focus is making useful AI run on hardware I already own: understanding memory limits, connecting laptops, and learning where custom applications add value.
 
 <p align="center">
-  <img src="./assets/connected-ai-lab.svg" width="100%" alt="Connected local AI lab: a peer laptop sends requests over a Thunderbolt 4 / USB4 network link through NVIDIA PAIR to the Alienware RTX 4070, with results returned to the client. A short introductory animation illustrates the workflow.">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/connected-ai-lab-static.png">
+    <img src="./assets/connected-ai-lab.svg" width="100%" alt="Connected local AI lab: a peer laptop sends requests over a Thunderbolt 4 / USB4 network link through NVIDIA PAIR to the Alienware RTX 4070, with results returned to the client. A short introductory animation illustrates the workflow.">
+  </picture>
 </p>
 
 | This machine | Verified configuration |
