@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Patrick 👋
 
-<!--
-**patrickh50/patrickh50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+[Add a short introduction about yourself.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+[Share what you're focused on right now.]
+
+## Interests
+
+[Add topics, technologies, or activities you're interested in.]
+
+## Find me online
+
+[Add links where people can learn more or get in touch.]
